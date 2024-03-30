@@ -1,0 +1,2 @@
+h1{display:flex}.App,h1{justify-content:center}.App{align-items:center;display:grid}*{margin:0;padding:0}.Handle-carousel{display:flex;justify-content:center}.Carousel{display:block;justify-self:center;overflow:hidden}.Carousel__list{display:flex;list-style:none;margin:0;padding:0;position:absolute;position:relative;top:0}button{left:calc(50% - 31px);position:relative}button:disabled{cursor:not-allowed;opacity:.5}
+/*# sourceMappingURL=main.6480cb9a.css.map*/
